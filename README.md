@@ -11,9 +11,9 @@
  </p>
 </br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=HarveyCla&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarveyCla&hide=TeX&layout=compact) </br>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=HarveyCla.HarveyCla)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sabanferik&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabanferik&hide=TeX&layout=compact) </br>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sabanferik.sabanferik)
 
 ## Skills
 
@@ -39,7 +39,7 @@
 ## Contact Me
 
 <p align="center">
-  <a href="sbnftmaf:harvey@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
+  <a href="Saban Ferik: sbnftmaf@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"  width="70" height="70"/></a>
   <a href="https://www.linkedin.com/in/Saban Ferik/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="70" height="70"/></a>
 </p>
 
